@@ -11,6 +11,7 @@ public class Game {
         robot.go(11);
         robot.turnLeft();
         robot.go(5);
+        robot.go();
         robot.turnLeft();
         robot.go(6);
 
